@@ -1,6 +1,6 @@
-### Olá! Meu nome é Alexandre ROCHA 
-- 🔭 Estudando para trabalhar com Back-End ; )
-- 💻 Gosto de programação competitiva! Perfil Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/572600)
+### Olá! Je m'apelle Alexandre ROCHA 
+- 🔭 Je veux devenir un développeur Full stack ou Gaming.
+- 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 
 <div align="center">
   <a href="https://github.com/AlexandreRochaQ">
