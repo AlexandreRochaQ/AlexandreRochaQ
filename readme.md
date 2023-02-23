@@ -2,8 +2,8 @@
 #### - 🔭 Je veux devenir un développeur Full stack ou Gaming.
 #### - 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 
-[![card](https://github-readme-stats.vercel.app/api?username=Alexandrecode&theme=radical&show_icons=true)](https://github.com/AlexandreRochaQ/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrecode&hide=html&layout=compact&theme=radical)](https://github.com/AlexandreRochaQ/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=AlexandreRochaQ&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRochaQ&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   
   ## 
   
