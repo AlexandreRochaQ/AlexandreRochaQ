@@ -1,16 +1,20 @@
 ### Olá! Je m'apelle Alexandre ROCHA 
 #### - 🔭 Je veux devenir un développeur Full stack ou Gaming.
 #### - 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
-
-[![card](https://github-readme-stats.vercel.app/api?username=AlexandreRochaQ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](height="180em" https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRochaQ&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ## 
-  
+<br>
+<div align="center">
+  <a href="https://github.com/feliperodsdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreRochaQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRochaQ&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ <br>
   <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Alexandre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
    <br>
 </div>
   
