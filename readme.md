@@ -3,7 +3,7 @@
 #### - 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 
 [![card](https://github-readme-stats.vercel.app/api?username=AlexandreRochaQ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRochaQ&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](height="180em" https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRochaQ&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   ## 
   
