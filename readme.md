@@ -1,6 +1,6 @@
 ### Olá! Je m'apelle Alexandre ROCHA 
-- 🔭 ### Je veux devenir un développeur Full stack ou Gaming. ###
-- 💻 ### Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728) ###
+- 🔭 ### Je veux devenir un développeur Full stack ou Gaming.
+- 💻 ### Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
