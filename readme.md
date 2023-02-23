@@ -24,4 +24,4 @@
  
 </div>
 
-![Snake animation](https://github.com/AlexandreRochaQ/AlexandreRochaQ/blob/output/github-contribuition-grid-snake.svg)
+![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
