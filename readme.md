@@ -1,6 +1,6 @@
-### Olá! Je m'apelle Alexandre ROCHA 
+### Olá! Je m'appelle Alexandre ROCHA 
 #### - 🔭 Je veux devenir un développeur Full stack.
-#### - 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
+#### - 💻 Mon profil dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 <br>
 <div align="center">
   <a href="https://github.com/feliperodsdev">
