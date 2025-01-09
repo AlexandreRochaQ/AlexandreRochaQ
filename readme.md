@@ -1,5 +1,5 @@
 ### Olá! Je m'apelle Alexandre ROCHA 
-#### - 🔭 Je veux devenir un développeur Full stack ou Gaming.
+#### - 🔭 Je veux devenir un développeur Full stack.
 #### - 💻 Mon profile dans Beecrowd -> (https://www.beecrowd.com.br/judge/pt/profile/631728)
 <br>
 <div align="center">
@@ -20,10 +20,8 @@
   
   <div> 
     <br>
-  <a href="https://www.instagram.com/dre.cpp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/drerqz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandre.rocha.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <br>
  
 </div>
-
-![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
